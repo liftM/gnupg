@@ -621,7 +621,7 @@ you are doing; it may remove precious entropy from the system!
 @item --gen-prime @var{mode}  @var{bits}
 @opindex gen-prime
 Use the source, Luke :-). The output format is subject to change
-with ant release.
+with any release.
 
 
 @item --enarmor
